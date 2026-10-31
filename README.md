@@ -28,7 +28,6 @@
 | 항목 | 레포지토리 | 제출·참여 기록 |
 | --- | --- | --- |
 | 장바구니 리팩토링 · Layered Architecture | [shopping-cart-refactoring](https://github.com/GamjaIsMine02/shopping-cart-refactoring) | [피트·루멘 공동 제출](https://github.com/woowacourse/shopping-cart-refactoring/pull/1) |
-| useEffect 원정대 | [use-effect-expedtion](https://github.com/GamjaIsMine02/use-effect-expedtion) | [참여 PR](https://github.com/Antoliny0919/use-effect-expedtion/pull/5) |
 
 ## 스터디
 
@@ -49,6 +48,3 @@
 | --- | --- | --- |
 | 주차의 민족 | [2026-jumin](https://github.com/woowacourse-teams/2026-jumin) | — |
 
-## 관련 기록
-
-- [React API 챌린지 개인 포크](https://github.com/GamjaIsMine02/2026-fe-react-api)
